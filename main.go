@@ -1,5 +1,5 @@
 package main
-
+//я люблю Свету
 import (
 	"encoding/json"
 	"fmt"
