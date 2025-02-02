@@ -36,7 +36,7 @@ func getJoke() (string, error) {
 
 func main() {
 	// Читаем токен бота из переменных окружения
-	token := "7874554828:AAEaLzJ6HLqIZIV5G4Uv0FvDT80liXn5SJw"
+	token := "token"
 	if token == "" {
 		log.Fatal("TELEGRAM_BOT_TOKEN is not set")
 	}
